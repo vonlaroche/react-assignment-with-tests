@@ -2,7 +2,7 @@
   "name": "record-union-react-assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vonlaroche.github.io/react-assignment-with-tests/s",
+  "homepage": "https://vonlaroche.github.io/react-assignment-with-tests/",
   "dependencies": {
     "emoji-regex": "^8.0.0",
     "enzyme": "^3.10.0",

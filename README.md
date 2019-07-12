@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Visit the page at the link below
-https://vonlaroche.github.io/assignment-react/
+https://vonlaroche.github.io/react-assignment-with-tests/
 
 ## Available Scripts
 
