@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Note List Item Matches the snapshot 1`] = `
+Array [
+  <li>
+    <span />
+    <i
+      className="fas fa-trash-alt deleteIcon"
+    />
+  </li>,
+  "",
+]
+`;
